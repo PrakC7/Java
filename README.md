@@ -68,7 +68,7 @@ The goal is to stay consistent, solve quality problems, and become interview-rea
 - [Java Documentation & Tutorials](https://docs.oracle.com/en/java/)
 - [Striver's DSA Sheet (Java Version)](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
 - [GFG SDE Sheet](https://www.geeksforgeeks.org/sde-sheet-a-complete-guide-for-sde-preparation/)
-- [NeetCode Patterns](https://neetcode.io/)
+- [Book](Java The Complete Reference Twelfth Edition)
 
 ---
 
