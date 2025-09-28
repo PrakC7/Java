@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Java-red.svg" alt="Java Badge"/>
   <img src="https://img.shields.io/badge/Goal-240 Days of DSA-green.svg" alt="240 Day Badge"/>
-  <img src="https://img.shields.io/github/last-commit/PrakC7/Mastery-DSA-in-Java" alt="Last Commit"/>
+  <img src="https://img.shields.io/github/last-commit/PrakC7/Java" alt="Last Commit"/>
 </p>
 
 ---
